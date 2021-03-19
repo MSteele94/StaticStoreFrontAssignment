@@ -184,6 +184,7 @@ background-color: rgba(20, 20, 20, 0.7);
     border-radius: 2em;
     box-shadow: 1px 1px 5px #777;
    }
+
    section div.hardcandy{
        position: absolute;
        float: right;
@@ -194,6 +195,7 @@ background-color: rgba(20, 20, 20, 0.7);
        border: #ccc solid 1px;
        border-radius: 0.6em;
    }
+   
    section div.gummycandy{
     float: right;
     width: 300px;
